@@ -1,0 +1,27 @@
+{
+  "name": "SovereignCoin",
+  "symbol": "SC",
+  "decimals": 18,
+  "contract_address": "0x52C87863535Bd76C421123205d6ebAAb136465F2",
+  "chain": "binance-smart-chain",
+  "chain_id": 56,
+  "type": "BEP20",
+  "total_supply": "68800000",
+  "description": "SovereignCoin (SC) is a decentralized digital currency built on the BNB Smart Chain. Inspired by the principles of Adam Smith \u2014 value, freedom, and prosperity \u2014 SC aims to be a currency of trust and a foundation for the future.",
+  "slogan": "Value \u00b7 Freedom \u00b7 Prosperity",
+  "website": "https://sovereigncoin.io",
+  "explorer": "https://bscscan.com/token/0x52C87863535Bd76C421123205d6ebAAb136465F2",
+  "logo": "https://raw.githubusercontent.com/garcfacund-pixel/sovereigncoin-metadata/main/assets/logo.png",
+  "logo_512": "https://raw.githubusercontent.com/garcfacund-pixel/sovereigncoin-metadata/main/assets/logo_512.png",
+  "logo_svg": "https://raw.githubusercontent.com/garcfacund-pixel/sovereigncoin-metadata/main/assets/logo_32.svg",
+  "social": {
+    "twitter": "https://twitter.com/SovereignCoinSC",
+    "telegram": "https://t.me/SovereignCoinSC",
+    "github": "https://github.com/garcfacund-pixel/sovereigncoin-metadata"
+  },
+  "audit": {
+    "score": 92,
+    "status": "verified",
+    "bscscan_verified": true
+  }
+}
